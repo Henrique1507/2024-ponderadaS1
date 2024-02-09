@@ -1,0 +1,22 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    gap: 40px;
+}
+
+.torcida img {
+    width: 380px;
+    height: auto;
+}
+
+.button {
+    padding: 1em;
+    border-radius: 8px;
+    background-color: rgb(235, 71, 71);
+    color: white;
+    cursor: pointer;
+    border: none;
+}

@@ -1,0 +1,18 @@
+.footer {
+    background-color: #312a2a;
+    color: #fff;
+    padding: 3em;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_frase{
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.spfc_mundial img {
+    width: 200px;
+    height: auto;
+}
